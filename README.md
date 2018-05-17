@@ -1,2 +1,2 @@
 # resteeny
-Little timer that helps prevet eyestrain.
+Little timer that helps prevent eyestrain.
